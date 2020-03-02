@@ -1,8 +1,7 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 
 const NavBar = () => {
   return (
-    <Fragment>
     <nav className="navbar">
       <ul className="navbar-nav">
         <li className="logo">
@@ -182,7 +181,6 @@ const NavBar = () => {
         </li>
       </ul>
     </nav>
-    </Fragment>
   );
 }
 
