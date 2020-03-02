@@ -15,3 +15,7 @@ $ npm start
 $ npm test
 $ npm run build
 ```
+
+## References
+
+[create-react-app](https://reactjs.org/)
