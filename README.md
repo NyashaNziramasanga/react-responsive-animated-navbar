@@ -1,4 +1,4 @@
-# 🚀 React Responsive Animated CSS Navbar 👾
+# 👾 React Responsive Animated CSS Navbar 🚀
 
 React version [A Responsive Animated CSS Icon Navbar](https://github.com/fireship-io/222-responsive-icon-nav-css) by [Fireship](https://github.com/fireship-io)
 
