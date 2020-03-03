@@ -1,4 +1,6 @@
 import React from 'react';
+import NavBarItem from './navbar-item';
+
 import Logo from './icons/logo.jsx';
 import Cat from './icons/cat.jsx';
 import Alien from './icons/alien.jsx';
@@ -53,17 +55,6 @@ const NavBar = () => {
         </li>
       </ul>
     </nav>
-  );
-};
-
-const NavBarItem = ({ link, svg, name }) => {
-  return (
-    <li className="nav-item">
-      <a href={link} className="nav-link">
-        {svg}
-        <span className="link-text">{name}</span>
-      </a>
-    </li>
   );
 };
 
